@@ -1,5 +1,5 @@
 # XMU Dumper.
-Dump the a raw image off a Original Xbox Memory Unit (XMU) straight from the console. Useful for backing up your XMU or using it on an emulator like xemu.
+Dump a raw image of a Original Xbox Memory Unit (XMU) straight from the console. Useful for backing up your XMU or using it on an emulator like xemu.
 
 * See https://xboxdevwiki.net/Xbox_Memory_Unit
 
