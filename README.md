@@ -6,7 +6,7 @@ Dump the a raw image off a Original Xbox Memory Unit (XMU) straight from the con
 ## Compile
 Setup and install [nxdk](https://github.com/XboxDev/nxdk):
 ```
-run `nxdk/bin/activate`
+run the active binary in `nxdk/bin/activate`
 git clone https://github.com/Ryzee119/XMU_Dumper.git
 cd XMU_Dumper
 make
