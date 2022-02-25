@@ -1,0 +1,6 @@
+.vscode
+bin
+*.d
+*.obj
+*.iso
+*.exe
